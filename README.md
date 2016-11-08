@@ -7,6 +7,8 @@ Display and hide elements without custom JS code
 Toggle has a very simple API. All configuration is made by defining HTML attributes on the
 toggle elements and the target elements.
 
+Just call `Toggle.init()` and you are ready to go.
+
 ### data-target (required)
 
 Use this attribute on the toggle switch. It defines the selector which will be used to
