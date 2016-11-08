@@ -47,7 +47,9 @@ to a radiobutton group.
 <div class="details-view">
     <p>Exact location: Berne, Switzerland</p>
 </div>
-``` 
+```
+
+[JSFiddle](https://jsfiddle.net/d2ecm68L/)
 
 ### Accordeon group
 
@@ -65,4 +67,6 @@ to a radiobutton group.
 <div class="details-location" data-accordeon-group="attributes">
     <p>Exact location: Berne, Switzerland</p>
 </div>
-``` 
+```
+
+[JSFiddle](https://jsfiddle.net/9781vL5a/)
